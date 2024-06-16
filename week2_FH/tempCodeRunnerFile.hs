@@ -1,0 +1,1 @@
+truncatablePrime $ div num 10
